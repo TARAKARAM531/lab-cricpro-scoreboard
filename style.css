@@ -1,4 +1,44 @@
 /* Type your code here */
+*{
+	
+	font-family: 'Nunito Sans', sans-serif;
+}
+.k{
+	padding-left:1300px;
+}
+.m{
+    width:70%;
+	padding-left: 500px;
+}
+.a{
+    color:solid black;
+	padding-left:200px;
+	font-size:40px;
+}
+.b{
+	font-family:'Nunito Sans', sans-serif;
+    color:gray;
+	padding-left: 200px;
+	font-size:30px;
+}
+.tabl{
+    font-size:17px;
+	background-color: white;
+	left:200px;
+	position: relative;
+	bottom: 500px;
+	font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding-left: 100px;
+}
+
+  .innings{
+	background-color:orangered;
+	padding:10px;
+}
 
 
 /* change the font family and spacing as per your project font */
@@ -7,10 +47,11 @@
     flex-direction: row;
     align-content: flex-end;
 	position: relative;
-	top: 750px;
+	bottom:250px;
 	margin-left: 80px;
 	font-size: 18px;
 	font-family: Nunito Sans;
-    font-style: normal;
+	font-style: normal;
+	padding-left:150px;
     
 }
